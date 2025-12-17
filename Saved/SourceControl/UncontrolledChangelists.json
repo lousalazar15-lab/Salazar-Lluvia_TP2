@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Pon/OneDrive/Documents/Salazar-Lluvia_TP2/Content/ThirdPerson/Duck_Blueprint.uasset",
+				"C:/Users/Pon/OneDrive/Documents/Salazar-Lluvia_TP2/Content/ThirdPerson/Lvl_Cuisine.umap",
+				"C:/Users/Pon/OneDrive/Documents/Salazar-Lluvia_TP2/Content/Blueprints/TriggerBox_Blueprint.uasset",
+				"C:/Users/Pon/OneDrive/Documents/Salazar-Lluvia_TP2/Content/Blueprints/MI_ThirdPersonColWay.uasset",
+				"C:/Users/Pon/OneDrive/Documents/Salazar-Lluvia_TP2/Content/Game/Blueprint/Pawn/Player/BP_MainChara.uasset",
+				"C:/Users/Pon/OneDrive/Documents/Salazar-Lluvia_TP2/Content/Game/Blueprint/Pawn/Player/ABP_MC.uasset",
+				"C:/Users/Pon/OneDrive/Documents/Salazar-Lluvia_TP2/Content/ThirdPerson/FoodIngredient_Tuna_Blueprint.uasset",
+				"C:/Users/Pon/OneDrive/Documents/Salazar-Lluvia_TP2/Content/Blueprints/WP_Widget_Interface.uasset",
+				"C:/Users/Pon/OneDrive/Documents/Salazar-Lluvia_TP2/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"C:/Users/Pon/OneDrive/Documents/Salazar-Lluvia_TP2/Content/Blueprints/BP_HUD_Interface.uasset",
+				"C:/Users/Pon/OneDrive/Documents/Salazar-Lluvia_TP2/Content/sond/outdoor_event_background_noise.uasset",
+				"C:/Users/Pon/OneDrive/Documents/Salazar-Lluvia_TP2/Content/ThirdPerson/TriggerBox_Blueprint.uasset",
+				"C:/Users/Pon/OneDrive/Documents/Salazar-Lluvia_TP2/Content/ThirdPerson/MI_ThirdPersonColWay.uasset",
+				"C:/Users/Pon/OneDrive/Documents/Salazar-Lluvia_TP2/Content/Game/ABP_MC.uasset",
+				"C:/Users/Pon/OneDrive/Documents/Salazar-Lluvia_TP2/Content/Game/Blueprint/Pawn/Player/Anims/ABP_MC.uasset"
+			]
+		}
+	]
+}
